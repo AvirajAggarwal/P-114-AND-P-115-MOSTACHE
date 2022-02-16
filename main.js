@@ -3,7 +3,7 @@ noseY=0;
 
 function preload()
 {
-clown_nose=loadImage('https://i.postimg.cc/7ZBcjDqp/clownnose.png');
+clown_nose=loadImage('https://i.postimg.cc/SKB4Q42F/download-removebg-preview.png');
 }
 
 function setup()
